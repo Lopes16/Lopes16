@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey! João Victor aqui 👋
+  
+🔭 Desenvolvedor Full-Stack • UX-UI Designer • Freelancer
 
-<!--
-**Lopes16/Lopes16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
+![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+✨ Você pode conferir alguns projetos meus nos 'pinados' logo abaixo ou nos repositórios públicos <br>
+
+💻 Aprendizado Contínuo - 1% melhor a cada dia<br>
+
+🤝 Ficarei feliz de colaborar com seu projeto
+
+📫 Pode entrar em contato comigo e ver meu trabalho pelas redes sociais
